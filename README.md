@@ -1,2 +1,2 @@
 # PSD-AWS-SAP
-I have create the repository of the AWS topics which I prepared for the AWS SAP Certification. These are from various different sources, AWS Documents, Adrian Cantrill's course (https://learn.cantrill.io.), Tutorialsdojo (https://tutorialsdojo.com/) etc. I would always suggest to buy the course directly get the original and latest content.
+I have create the repository for the selected AWS topics, which I read duirng my AWS SAP certification. These are from various different sources, AWS Rampup Guide, AWS Documents, Adrian Cantrill's course (https://learn.cantrill.io.), Tutorialsdojo (https://tutorialsdojo.com/) etc. I would suggest, if you wan to learn quickly, then buy the course directly to get the original and latest contents.
